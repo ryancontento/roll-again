@@ -79,3 +79,7 @@ btnHold.addEventListener('click', function () {
     }
   }
 });
+
+// restart game
+
+btnNew.addEventListener('click', function () {});

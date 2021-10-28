@@ -2,6 +2,8 @@
 
 ## How to Run
 
-### (Write Steps but just simple download -> open index.html in browser)
+### 1. download the files into a folder
 
-### Next feature = hard mode option: Need to get exactly 50!
+### 2. open index.html in browser
+
+### \*\*Next feature = hard mode option: Need to get exactly 50!
